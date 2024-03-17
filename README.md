@@ -18,7 +18,7 @@ This is a simple Laravel 10 JWT API Authentication with Laravel 10.0.0 and JWT 1
 
 ## About Me
 - **Foysal Ahmmad Arfin**
-- **Software Engineer (PHP,NodeJs,Laravel,NestJs,ReactJs)**
+- **Software Engineer (PHP, NodeJs, Laravel, NestJs, ReactJs)**
 - **Email:af.arfinfoysal@gmail.com**
 
 
@@ -27,4 +27,4 @@ This is a simple Laravel 10 JWT API Authentication with Laravel 10.0.0 and JWT 1
 - **[Github](https://github.com/arfin-foysal/)**
 
 
-## ==========================Thank You==========================
+## ========Thank You========
